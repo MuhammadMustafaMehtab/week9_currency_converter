@@ -69,5 +69,4 @@ Exchange Rate: 278.45
 
 ## 👤 Author
 
-**Muhammad Mustafa Mehtab**
-[GitHub Profile](https://github.com/MuhammadMustafaMehtab)
+**Muhammad Mustafa Mehtab** Mechanical Engineering Student @ MUET | Frontend Developer | Python
